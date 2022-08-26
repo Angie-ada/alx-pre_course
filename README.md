@@ -1,1 +1,1 @@
-My first redme
+new ideas for my readme
